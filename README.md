@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Dzejkas
+- 👀 I’m interested in programing.
+- 🌱 I’m currently learning Fivem Lua and HTML + CSS.
+- 📫 How to reach me email - jakeyae.contact@gmail.com or discord: jakey_ae
+
+If you want, you can useing this files.
